@@ -50,4 +50,4 @@ npm start
 ```
 
 ## 👨‍💻 Author
-Zahrra Kazmi - Intern at [Internee.pk]
+Zahra Kazmi - Intern at [Internee.pk]
